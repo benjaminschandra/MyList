@@ -34,7 +34,7 @@ public class List {
     }
 
     public int size() {
-        return size;
+        return size; // Test
     }
 
     // class Node
